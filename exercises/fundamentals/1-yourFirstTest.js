@@ -1,4 +1,4 @@
-// the most fundamental test 
+// the most fundamental test
 
 /*
 write a test that reveals the bug.
@@ -24,4 +24,3 @@ function add2(x) {
 function multiplyBy2(x) {
   return x * 2;
 }
-
