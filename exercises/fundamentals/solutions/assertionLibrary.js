@@ -8,4 +8,4 @@ const expect = (initial) => ({
   },
 });
 
-export default expect;
+module.exports = expect;
